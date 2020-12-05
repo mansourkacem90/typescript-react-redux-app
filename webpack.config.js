@@ -23,7 +23,7 @@ module.exports = {
     contentBase: __dirname + '/dist/',
     inline: true,
     host: 'localhost',
-    port: 5002,
+    port: 8080,
     historyApiFallback: true,
   },
   module: {
