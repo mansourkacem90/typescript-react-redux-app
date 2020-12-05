@@ -1,0 +1,22 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:recommended", "tslint-react", "tslint-config-prettier"],
+  "jsRules": {},
+  "rulesDirectory": ["tslint-plugin-prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "eofline": false,
+    "no-trailing-whitespace": false,
+    "comment-format": false,
+    "quotemark": false,
+    "no-console": true,
+    "one-line": false,
+    "no-consecutive-blank-lines": false,
+    "curly": false,
+    "prettier": true,
+    "interface-name": false,
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
+    "jsx-no-lambda": false
+  }
+}
