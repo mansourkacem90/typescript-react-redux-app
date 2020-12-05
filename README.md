@@ -1,0 +1,2 @@
+# typescript-react-redux-app
+Typescript is in its strongest position ever for making your React apps more stable, readable and manageable. The package has been steadily introducing more support for React and Javascript front-end frameworks.This project has introduced Typescript in conjunction with React and how to utilise tslint-react for smoother development. From here, you are now well placed to get the full feature set of react app with typescript and tslint with redux-saga.
